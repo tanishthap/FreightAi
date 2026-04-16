@@ -1,3 +1,19 @@
+## Setup Instructions
+
+1. Clone the repo
+
+2. Install dependencies:
+   pip install -r requirements.txt
+
+3. Download dataset:
+   https://www.kaggle.com/datasets/usdot/freight-analysis-framework
+
+4. Place files in:
+   freightai/data/
+
+5. Run the app:
+   streamlit run app.py
+
 # FreightAI — Logistics Decision-Support Dashboard
 
 A polished, ML-powered prototype for supply chain professionals to predict shipment
