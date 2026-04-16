@@ -8,8 +8,8 @@
 3. Download dataset:
    https://www.kaggle.com/datasets/usdot/freight-analysis-framework
 
-4. Place files in:
-   freightai/data/
+4. Place files in data folder:
+  /data/
 
 5. Run the app:
    streamlit run app.py
