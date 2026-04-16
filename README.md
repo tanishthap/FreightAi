@@ -5,7 +5,7 @@
 2. Install dependencies:
    pip install -r requirements.txt
 
-3. Download dataset:
+3. Download dataset, file are too big to upload here:
    https://www.kaggle.com/datasets/usdot/freight-analysis-framework
 
 4. Place files in data folder:
