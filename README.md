@@ -14,6 +14,13 @@
 5. Run the app:
    streamlit run app.py
 
+   # Freight AI Project
+
+Machine learning project focused on freight/logistics analysis and modeling.
+
+## Notebook
+[Open the notebook](./Freight_AI_updated.ipynb)
+
 # FreightAI — Logistics Decision-Support Dashboard
 
 A polished, ML-powered prototype for supply chain professionals to predict shipment
