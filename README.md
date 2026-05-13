@@ -19,7 +19,7 @@
 Machine learning project focused on freight/logistics analysis and modeling.
 
 ## Notebook
-[Open the notebook](./Freight_AI_updated.ipynb)
+[Open the notebook](./FreightAI latest version)).ipynb)
 
 # FreightAI — Logistics Decision-Support Dashboard
 
